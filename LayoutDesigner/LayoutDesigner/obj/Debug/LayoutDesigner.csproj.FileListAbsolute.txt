@@ -1,0 +1,15 @@
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\Microsoft.Msagl.xml
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\DXWindowsApplication1.exe.config
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\DXWindowsApplication1.exe
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\DXWindowsApplication1.pdb
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\DXWindowsApplication1.DrawShapeForm.resources
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\DXWindowsApplication1.Main.resources
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\DXWindowsApplication1.Properties.Resources.resources
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csproj.GenerateResource.Cache
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\DXWindowsApplication1.exe.licenses
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\DXWindowsApplication1.exe
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\DXWindowsApplication1.pdb
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\Microsoft.Msagl.Drawing.pdb
+C:\Users\ipenker\Work\LayoutDesigner\LayoutDesigner\bin\Debug\Microsoft.Msagl.Drawing.xml
